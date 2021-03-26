@@ -10,7 +10,7 @@ Software Developer and aspiring Game Developer
 
 # Project
 
-![Video]('./src/assets/vue-weather.gif')
+![Video](./src/assets/vue-weather.gif)
 
 ## Experience with Project
 
